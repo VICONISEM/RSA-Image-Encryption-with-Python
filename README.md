@@ -35,9 +35,11 @@ Install the required libraries using pip:
 ## Examples
 
 Here are some example images encrypted and decrypted using this project.
-
-![Example 1](RSA_Images/encrypted_image.jpg)
-![Example 2](RSA_Images/decrypted_image.jpg)
+![Example 1](RSA_Images/decrypted_image.jpg)
+### encrypted image
+![Example 2](RSA_Images/encrypted_image.jpg)
+### decrypted_image
+![Example 3](RSA_Images/decrypted_image.jpg)
 
 ## Folder Structure
 
@@ -46,9 +48,6 @@ Here are some example images encrypted and decrypted using this project.
 - `examples/`: Folder containing example images.
 - `README.md`: This README file.
 
-## Contributing
-
-Contributions are welcome! Feel free to submit issues or pull requests.
 
 ## License
 
@@ -56,8 +55,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- [PIL (Python Imaging Library)](https://python-pillow.org/)
-- [cryptography](https://cryptography.io/en/latest/)
+- [RSA)]([https://python-pillow.org/](https://en.wikipedia.org/wiki/RSA_(cryptosystem)))
+
 
 ## Author Information
 
