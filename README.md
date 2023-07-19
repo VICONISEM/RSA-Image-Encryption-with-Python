@@ -35,10 +35,11 @@ Install the required libraries using pip:
 ## Examples
 
 Here are some example images encrypted and decrypted using this project.
-![Example 1](RSA_Images/decrypted_image.jpg)
-### encrypted image
+### Original image 
+![Example 1](RSA_Images/images/apple.jpg)
+### Encrypted image
 ![Example 2](RSA_Images/encrypted_image.jpg)
-### decrypted_image
+### Decrypted image
 ![Example 3](RSA_Images/decrypted_image.jpg)
 
 ## Folder Structure
@@ -49,13 +50,6 @@ Here are some example images encrypted and decrypted using this project.
 - `README.md`: This README file.
 
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- [RSA)]([https://python-pillow.org/](https://en.wikipedia.org/wiki/RSA_(cryptosystem)))
 
 
 ## Author Information
