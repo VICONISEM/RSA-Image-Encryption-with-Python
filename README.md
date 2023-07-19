@@ -36,8 +36,8 @@ Install the required libraries using pip:
 
 Here are some example images encrypted and decrypted using this project.
 
-![Example 1](examples/example1.png)
-![Example 2](examples/example2.png)
+![Example 1](RSA_Images/encrypted_image.jpg)
+![Example 2](RSA_Images/decrypted_image.jpg)
 
 ## Folder Structure
 
