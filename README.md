@@ -29,7 +29,7 @@ Install the required libraries using pip:
 
 ## Usage
 
-1. Run the script "rsa_image_encryption.py" to perform the encryption and decryption.
+1. Run the script "RSA.ipynb" to perform the encryption and decryption.
 2. After running the script, you will find the "encrypted_image.jpg" and "decrypted_image.jpg" files in the same directory.
 
 ## Examples
