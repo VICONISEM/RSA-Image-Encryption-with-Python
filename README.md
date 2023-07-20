@@ -38,9 +38,9 @@ Here are some example images encrypted and decrypted using this project.
 ### Original image 
 ![Example 1](RSA_Images/images/apple.jpg)
 ### Encrypted image
-![Example 2](RSA_Images/encrypted_image.jpg)
+![Example 2](encrypted_image.jpg)
 ### Decrypted image
-![Example 3](RSA_Images/decrypted_image.jpg)
+![Example 3](decrypted_image.jpg)
 
 ## Folder Structure
 
