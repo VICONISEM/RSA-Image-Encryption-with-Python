@@ -50,7 +50,7 @@ Here are some example images encrypted and decrypted using this project.
 - `README.md`: This README file.
 
 
-
+ 
 
 ## Author Information
 
